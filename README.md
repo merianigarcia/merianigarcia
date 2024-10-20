@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD1908&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0EFF1B&size=35&center=true&vCenter=true&width=1000&lines=Hello!!,+Meu+Nome+é+Meriani+Garcia+;Sejam+bem+vindos+ao+Meu+Github;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0EFF1B&size=35&center=true&vCenter=true&width=1000&lines=Hello!!,+Meu+Nome+é+Meriani+Garcia+;Sejam+bem+vindos+ao+Meu+Github;)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=merianigarcia&show_icons=true&count_private=true&hide_border=true&title_color=0EFF1B&icon_color=0EFF1B&text_color=0EFF1B&bg_color=0E0E0E" alt="merianigarcia github stats" /> 
